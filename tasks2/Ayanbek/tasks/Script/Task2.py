@@ -14,7 +14,7 @@ monthdict = {
     "Nov": "11-01",
     "Dec": "12-01"
 }
-with open('../../tasks/Source/Source2.csv', 'r') as source, open('../../tasks/Result/result2.csv', 'w') as output:
+with open('../../tasks/Source/Source2.csv', 'r') as source, open('../../tasks/Result/result2.csv', 'w', newline='') as output:
     input_reader = csv.reader(source)
     output_writer = csv.writer(output)
     output_writer.writerow(("year", "region", "value"))
