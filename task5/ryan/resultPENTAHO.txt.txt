@@ -1,0 +1,5 @@
+year;region;value
+2022-Feb;NY;101010
+2022-Feb;LA;202020
+2022-Mar;NY;101010
+2022-Mar;LA;202020
