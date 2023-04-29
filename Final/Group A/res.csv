@@ -1,0 +1,11 @@
+Year(January),Population (thousands),Rural,Urban,Source
+01-01-1897,"4,000",null,null,census
+01-01-1926,"6,198",null,null,census
+01-01-1939,"6,081",72,28,census
+01-01-1959,"9,295",56,44,census
+01-01-1970,"13,001",50,50,census
+01-01-1979,"14,685",46,54,census
+01-01-1989,"16,537",43,57,census
+01-01-1999,"14,953",43,57,census
+01-01-2009,"15,982",46,54,census
+01-01-2018,"18,137",44,56,estimate
