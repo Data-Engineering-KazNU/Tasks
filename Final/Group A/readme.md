@@ -14,4 +14,4 @@ Population Kazakhstan 1999
 
 > Our first step is to connect bs4, requests and csv repositories to our code. After that we mark down URL of website and create table where we get information and content, second step is converting all this content to csv file.
 
-> Next task is to change date format of first column from 1991 to 01-01-1991. To do that, we need
+> Next task is to change date format of first column from 1991 to 01-01-1991. 
